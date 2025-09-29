@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_webpack_project=self.webpackChunkmy_webpack_project||[]).push([[858],{858:(e,c,t)=>{t.r(c),t.d(c,{default:()=>r});const r={mcc:[{value:"wss://kor-edgerouter.aivn-dev.com:8888",text:"Korea Edge Router"}]}}}]);
+//# sourceMappingURL=858.js.map
