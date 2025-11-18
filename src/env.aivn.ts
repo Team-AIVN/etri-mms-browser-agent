@@ -2,7 +2,7 @@ import { EnvironmentConfig } from "./index";
 
 const EnvAIVN : EnvironmentConfig = {
     mcc: [
-        { value: "wss://kor-edgerouter.aivn-dev.com:8888", text: "Korea Edge Router" }
+        { value: "wss://kor-edgerouter.etri-mcp.re.kr:8888", text: "Korea Edge Router" }
     ]
 };
 
